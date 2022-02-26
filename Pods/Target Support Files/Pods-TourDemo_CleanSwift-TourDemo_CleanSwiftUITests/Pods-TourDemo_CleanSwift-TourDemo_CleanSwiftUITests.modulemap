@@ -1,0 +1,6 @@
+framework module Pods_TourDemo_CleanSwift_TourDemo_CleanSwiftUITests {
+  umbrella header "Pods-TourDemo_CleanSwift-TourDemo_CleanSwiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

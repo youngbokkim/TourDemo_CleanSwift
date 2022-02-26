@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_TourDemo_CleanSwift_TourDemo_CleanSwiftUITests : NSObject
+@end
+@implementation PodsDummy_Pods_TourDemo_CleanSwift_TourDemo_CleanSwiftUITests
+@end
